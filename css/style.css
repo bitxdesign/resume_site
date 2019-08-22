@@ -1,0 +1,33 @@
+h1 {
+  font-size: 62px;
+  background: -webkit-gradient(linear, left top, right top, from(#7f7fd5), color-stop(#86a8e7), to(#91eae4));
+  background: linear-gradient(to right, #7f7fd5, #86a8e7, #91eae4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+main {
+  padding: 10% 0 0 0;
+}
+
+#gradient-bkg {
+  text-transform: uppercase;
+}
+
+#latest-projects, #tech-stack, #contact {
+  padding: 10% 0 0 0;
+}
+
+#proj-2, #proj-1 {
+  background-color: grey;
+  height: 600px;
+  width: 200px;
+  margin-left: 15px;
+  border-radius: 10px;
+}
+
+h3 {
+  font-size: 2rem;
+  margin-bottom: 50px;
+}
+/*# sourceMappingURL=style.css.map */
